@@ -134,7 +134,7 @@ weather-ml/
 
 ## 🧠 Author
 
-This project was implemented and documented by **\Darsh**.
+This project was implemented and documented by **Darsh**.
 
 ---
 
